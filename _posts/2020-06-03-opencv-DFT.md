@@ -2,7 +2,7 @@
 layout:  post
 title:  opencv-DFT
 subtitle:  keep moving
-date:  2020-05-28
+date:  2020-06-03
 author:  L&X
 catalog:  true
 tags:
