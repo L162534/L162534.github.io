@@ -34,12 +34,17 @@ copyMakeBorder(img, padImg, 0, m - img.rows, 0, n - img.cols, BORDER_CONSTANT, S
 >
 > * borderType：
 >
->   ​    BORDER_CONSTANT    = 0, //!< `iiiiii|abcdefgh|iiiiiii`  表示用i值填充
->   ​    BORDER_REPLICATE   = 1, //!< `aaaaaa|abcdefgh|hhhhhhh`表示用边缘值填充
->   ​    BORDER_REFLECT     = 2, //!< `fedcba|abcdefgh|hgfedcb`表示镜像填充
->   ​    BORDER_WRAP        = 3, //!< `cdefgh|abcdefgh|abcdefg`用另一边的边缘像素填充
->   ​    BORDER_REFLECT_101 = 4, //!< `gfedcb|abcdefgh|gfedcba`以边缘像素为对称轴镜像填充
->   ​    BORDER_TRANSPARENT = 5, //!< `uvwxyz|abcdefgh|ijklmno`
+> ​    BORDER_CONSTANT    = 0, //!< `iiiiii|abcdefgh|iiiiiii`  表示用i值填充
+>
+> ​    BORDER_REPLICATE   = 1, //!< `aaaaaa|abcdefgh|hhhhhhh`表示用边缘值填充
+>
+> ​    BORDER_REFLECT     = 2, //!< `fedcba|abcdefgh|hgfedcb`表示镜像填充
+>
+> ​    BORDER_WRAP        = 3, //!< `cdefgh|abcdefgh|abcdefg`用另一边的边缘像素填充
+>
+> ​    BORDER_REFLECT_101 = 4, //!< `gfedcb|abcdefgh|gfedcba`以边缘像素为对称轴镜像填充
+>
+> ​    BORDER_TRANSPARENT = 5, //!< `uvwxyz|abcdefgh|ijklmno`
 
 通过数组生成2维矩阵，1维表示实数，1维表示虚数：
 
