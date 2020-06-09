@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "zhw",
-        href: "https://user.qzone.qq.com/1256201412?source=aiostar"
+        href: "http://myyzhww.cn:8090/"
         }
 #     ,{
 #         title: "简书·BY",
