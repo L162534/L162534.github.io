@@ -1,10 +1,10 @@
 # Site settings
-title: L&X Blog
-SEOTitle: L&X的博客
+title: LY Blog
+SEOTitle: LY的博客
 header-img: img/post-bg-desk.jpg
 email: wairibanma@163.com
 description: "Stay hungry, Stay foolish."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
+keyword: 
 url: "http://L162534.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/L162534/L162534.github.io.git" # you code repository
